@@ -1,5 +1,9 @@
 # Integração com Telegram
 
+
+[Voltar](../README.md)
+
+
 A integração com o **Telegram** é simples e rápida, permitindo que mensagens enviadas ao bot sejam recebidas e processadas diretamente pelo sistema.
 
 ---
