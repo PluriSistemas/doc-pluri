@@ -17,25 +17,22 @@ Aplicativo deixado de exemplo chat_pluri em relação ao messenger pois tem a pe
 
 
 1. Primeiro vc adiciona o produto  no seu aplicativo 
-
-    ![Adiciona produto](image-1.png)
+![Adiciona produto](image-1.png)
 
 2. Configure o webhook de acordo com o DNS. No campo de verificação de token, utilize o valor informado na chave dentro de "Canais de Chat" do CRM. Esse processo é necessário para validar o webhook do cliente.
-
-    ![Configuração do webhook](image-2.png)
+![Configuração do webhook](image-2.png)
 
 3. Preencher as informações app name em canais de chat do CRM  
-
-    ![App name](image-4.png)
+![App name](image-4.png)
 
 4. Preencher as informações token em canais de chat do CRM  
-    ![Gerar o token](image-3.png)
+![Gerar o token](image-3.png)
 
 
-Para enviar e receber mensagens, solicite a permissão de pages_messaging.
-![Faça analise ](image-5.png)
+Para enviar e receber mensagens, solicite a permissão de pages_show_list, pages_manage_metadata, pages_messaging.
+![Faça analise](image-5.png)
 
 
-Exemplo de pedido revisao de aplicativo que deu certo
+Exemplo de pedido revisão de aplicativo que deu certo 
 
-[Link](https://developers.facebook.com/apps/499918954710632/app-review/submissions/feedback/?submission_id=920029582699565&business_id=3804389239686015)
+[chat_pluri](https://developers.facebook.com/apps/499918954710632/app-review/submissions/feedback/?submission_id=920029582699565&business_id=3804389239686015)
