@@ -20,6 +20,10 @@ Esse repositório tem finalidade de servir com documentação
 ## Como integrar o messenger ?
 [Documentação do messenger](docs/messenger.md)
 
+## Fluxograma de Dados
+
+Para visualizar o fluxograma, acesse o site [Excalidraw](https://excalidraw.com/) e abra o arquivo localizado em:
+`mapamental/fluxodedados.excalidraw`
 
 ## PHP CHAT
 
