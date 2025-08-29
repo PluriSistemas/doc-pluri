@@ -32,6 +32,8 @@ Aplicativo deixado de exemplo chat_pluri em relação ao messenger pois tem a pe
 Para enviar e receber mensagens, solicite a permissão de pages_show_list, pages_manage_metadata, pages_messaging.
 ![Faça analise](image-5.png)
 
+messages, messaging_postbacks, messaging_optins, messaging_optouts e messaging_referrals
+
 
 Exemplo de pedido revisão de aplicativo que deu certo 
 
